@@ -1,2 +1,2 @@
 # rtr2020
-Real Time Rendering - Gaming
+Real Time Rendering Applications
